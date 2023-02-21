@@ -1,0 +1,17 @@
+../Assets/Idle (1).png
+../Assets/Idle (2).png
+../Assets/Idle (3).png
+../Assets/Idle (4).png
+../Assets/Idle (5).png
+../Assets/Idle (6).png
+../Assets/Idle (7).png
+../Assets/Idle (8).png
+../Assets/Idle (9).png
+../Assets/Idle (10).png
+../Assets/Idle (11).png
+../Assets/Idle (12).png
+../Assets/Idle (13).png
+../Assets/Idle (14).png
+../Assets/Idle (15).png
+
+//I am including this because I tried to do as you showed, with a seperate .txt file, but couldn't get it to work. 
